@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springframework5test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: anji.r
+Implementation-Vendor-Id: guru.springframework.test
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/springframew
+ ork5test/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
